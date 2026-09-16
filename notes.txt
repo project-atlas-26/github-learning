@@ -1,1 +1,0 @@
-This is where my notes regarding Git and Github are organized.
